@@ -18,7 +18,7 @@ Acredito que compreender o **todo da tecnologia** é essencial para construir so
 ### 🧠 Tecnologias e Linguagens / Technologies & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,c,cpp,docker,azure,aws,powerbi" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Acredito que compreender o **todo da tecnologia** é essencial para construir so
 ### 🚀 Frameworks e Bibliotecas / Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,azure,powerbi,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express" />
 </p>
 
 ---
