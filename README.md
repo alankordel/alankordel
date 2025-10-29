@@ -26,7 +26,7 @@ Acredito que compreender o **todo da tecnologia** é essencial para construir so
 ### 🚀 Frameworks e Bibliotecas / Frameworks & Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,azure,powerbi,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,powerbi,docker" />
 </p>
 
 ---
@@ -35,6 +35,12 @@ Acredito que compreender o **todo da tecnologia** é essencial para construir so
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+### ⚙️Ferramentas em desenvolvimento
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,css,react,nodejs,express" />
 </p>
 
 ---
