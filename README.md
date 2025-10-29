@@ -17,7 +17,7 @@ Apaixonado por transformar dados em soluções inteligentes na nuvem.
 
 ## 🛠️ Tecnologias & Ferramentas / Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=python,sql,azure,postgres,git,docker,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,azure,postgres,git,docker,powerbi" />
 
 | Categoria | Tecnologias & Ferramentas |
 |---|---|
