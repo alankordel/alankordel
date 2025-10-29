@@ -65,18 +65,14 @@ No futuro, quero unir **visão técnica e estratégica**, atuando como um **líd
 ### 📫 Contato / Contact
 
 <p align="center">
-  <a href="mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/alankordel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AlanKordel"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="alan.kordel@outlook.com.br"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alan-kordel-b3366115b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="hhttps://github.com/alankordel"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <i>"Transformando dados em decisões e tecnologia em impacto."</i> ⭐  
-  <br>
-  ⭐ <i>"Turning data into decisions and technology into impact."</i> ⭐
-</p>
+
 
 ---
 
