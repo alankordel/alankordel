@@ -18,7 +18,7 @@ Acredito que compreender o **todo da tecnologia** é essencial para construir so
 ### 🧠 Tecnologias e Linguagens / Technologies & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,c,cpp" />
 </p>
 
 ---
