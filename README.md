@@ -37,10 +37,10 @@ Acredito que compreender o **todo da tecnologia** é essencial para construir so
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-### ⚙️Ferramentas em desenvolvimento
+### ⚙️Ferramentas em aprendizado
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=css,react,nodejs,express" />
 </p>
 
 ---
