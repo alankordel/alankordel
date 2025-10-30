@@ -18,7 +18,6 @@ Acredito que aprender o todo é o que forma um bom profissional. Curioso, apaixo
 <img src="https://raw.githubusercontent.com/alankordel/alankordel/output/snake.svg" alt="Snake animation" />
 
 ###
-
 ---
 
 ### ⚙️ Tecnologias e Ferramentas que domino/tenho experiencia
