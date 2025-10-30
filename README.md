@@ -18,11 +18,7 @@ Acredito que aprender o todo é o que forma um bom profissional. Curioso, apaixo
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alankordel.alankordel&"  />
-</div>
 
-###
 
 ---
 
@@ -67,4 +63,10 @@ No futuro, quero **liderar equipes e projetos**, conectando **visão técnica e 
   <a href="https://www.linkedin.com/in/alan-kordel-b3366115b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/alankordel"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alankordel.alankordel&"  />
+</div>
+
+###
 
