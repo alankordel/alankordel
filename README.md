@@ -14,12 +14,10 @@ Mas não paro por aí — gosto de entender o todo da tecnologia, então vivo ap
 Acredito que aprender o todo é o que forma um bom profissional. Curioso, apaixonado por tecnologia e sempre aprendendo algo novo 🚀
 
 ---
+
 <img src="https://raw.githubusercontent.com/alankordel/alankordel/output/snake.svg" alt="Snake animation" />
 
-
 ###
-
-
 
 ---
 
