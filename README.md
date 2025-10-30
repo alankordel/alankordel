@@ -46,6 +46,7 @@ Aprimorar continuamente minhas habilidades em **Engenharia de Dados e Cloud Comp
 desenvolvendo soluções que unam **tecnologia, eficiência e impacto real**.  
 
 No futuro, quero **liderar equipes e projetos**, conectando **visão técnica e estratégica**.
+
 ---
 
 ### 📫 Contato
