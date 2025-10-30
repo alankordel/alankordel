@@ -5,17 +5,17 @@
 
 ### 💼 Sobre mim
 
-Sou **estudante de Engenharia da Computação** e profissional de **Tecnologia da Informação**, com experiências práticas em **suporte técnico, implantação de sistemas e integração de dados**.  
-Essas vivências me proporcionaram uma **visão ampla e estratégica** sobre como diferentes áreas e ferramentas de TI se conectam para gerar valor dentro das empresas.  
+Sou estudante de **Engenharia da Computação** e trabalho com Tecnologia da Informação, sempre curioso e pronto pra entender como as coisas realmente funcionam.
+Durante minha trajetória, já atuei com suporte técnico, implantação de sistemas e integração de dados — experiências que me deram uma visão ampla e estratégica sobre o ecossistema de TI e como tudo se conecta pra gerar valor nas empresas.
 
-Tenho grande afinidade com o universo de **dados e nuvem**, explorando soluções com **Azure, Python, SQL e Power BI**.  
-Ao mesmo tempo, busco compreender o **ecossistema completo da tecnologia**, estudando linguagens e frameworks que me ajudem a construir soluções integradas — da infraestrutura ao front-end.  
+Tenho um grande interesse na área de dados e cloud, explorando cada vez mais o Azure, Python, SQL e Power BI.
+Mas não paro por aí — gosto de entender o todo da tecnologia, então vivo aprendendo novas linguagens, frameworks e ferramentas.
 
-Acredito que **aprender o todo** é essencial para me tornar um **profissional completo e preparado para liderar com base técnica e visão estratégica**.
+Acredito que aprender o todo é o que forma um bom profissional. Curioso, apaixonado por tecnologia e sempre aprendendo algo novo 🚀
 
 ---
 
-### ⚙️ Tecnologias e Ferramentas que domino
+### ⚙️ Tecnologias e Ferramentas que domino/tenho experiencia
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,mysql,azure,bi,git,github,vscode,figma,postman,docker" />
@@ -45,9 +45,7 @@ Acredito que **aprender o todo** é essencial para me tornar um **profissional c
 Aprimorar continuamente minhas habilidades em **Engenharia de Dados e Cloud Computing**,  
 desenvolvendo soluções que unam **tecnologia, eficiência e impacto real**.  
 
-No futuro, quero **liderar equipes e projetos**, conectando **visão técnica e estratégica**,  
-com foco em resultados e inovação.
-
+No futuro, quero **liderar equipes e projetos**, conectando **visão técnica e estratégica**.
 ---
 
 ### 📫 Contato
