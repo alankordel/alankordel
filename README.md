@@ -24,7 +24,7 @@ Acredito que aprender o todo é o que forma um bom profissional. Curioso, apaixo
 ### ⚙️ Tecnologias e Ferramentas que domino/tenho experiencia
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,azure,bi,git,github,vscode,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,azure,dax,git,github,vscode,figma,postman,docker" />
 </p>
 
 - ☁️ **Cloud e Dados:** Azure (Storage, Data Factory, Synapse), Power BI, SQL  
