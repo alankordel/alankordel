@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Alan Kordel</h1>
-<h3 align="center">☁️ Entusiasta em Cloud & Data | Explorando todo o ecossistema de TI</h3>
+<h3 align="center">☁️ Entusiasta em Cloud & Data | Sempre aprendendo algo novo</h3>
 
 ---
 
@@ -55,7 +55,4 @@ No futuro, quero **liderar equipes e projetos**, conectando **visão técnica e 
   <a href="https://www.linkedin.com/in/alan-kordel-b3366115b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/alankordel"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
 
