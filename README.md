@@ -18,7 +18,7 @@ Acredito que **aprender o todo** é essencial para me tornar um **profissional c
 ### ⚙️ Tecnologias e Ferramentas que domino
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,azure,powerbi,git,github,vscode,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,azure,powerbi,git,github,vscode,figma,postman,docker" />
 </p>
 
 - ☁️ **Cloud e Dados:** Azure (Storage, Data Factory, Synapse), Power BI, SQL  
