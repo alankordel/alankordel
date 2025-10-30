@@ -50,7 +50,7 @@ com foco em resultados e inovação.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Contato
 
 <p align="left">
   <a href="mailto:alan.kordel@outlook.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -60,12 +60,4 @@ com foco em resultados e inovação.
 
 ---
 
-<p align="right">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--programmer-coder-coding-technology-illustrations-3859802.png?f=webp" width="380"/>
-</p>
 
----
-
-<p align="center">
-  ⭐ <i>"Transformando dados em decisões e tecnologia em impacto."</i> ⭐
-</p>
