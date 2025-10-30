@@ -1,9 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <h1 align="center">👋 Olá, eu sou o Alan Kordel</h1>
 <h3 align="center">☁️ Entusiasta em Cloud & Data | Sempre aprendendo algo novo</h3>
 
@@ -20,7 +14,15 @@ Mas não paro por aí — gosto de entender o todo da tecnologia, então vivo ap
 Acredito que aprender o todo é o que forma um bom profissional. Curioso, apaixonado por tecnologia e sempre aprendendo algo novo 🚀
 
 ---
+<img src="https://raw.githubusercontent.com/alankordel/alankordel/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alankordel.alankordel&"  />
+</div>
+
+###
 
 ---
 
