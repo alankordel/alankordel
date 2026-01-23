@@ -6,7 +6,7 @@
 ### 💼 Sobre mim
 
 Sou estudante de **Engenharia da Computação** e trabalho com Tecnologia da Informação, sempre curioso e pronto pra entender como as coisas realmente funcionam.
-Durante minha trajetória, já atuei com suporte técnico, implantação de sistemas e integração de dados — experiências que me deram uma visão ampla e estratégica sobre o ecossistema de TI e como tudo se conecta pra gerar valor nas empresas.
+Durante minha trajetória, já atuei com suporte técnico, implantação de sistemas e integração de dados — experiências que me deram uma visão ampla e estratégica sobre o ecossistema de TI e como tudo se conecta.
 
 Tenho um grande interesse na área de dados e cloud, explorando cada vez mais o Azure, Python, SQL e Power BI.
 Mas não paro por aí — gosto de entender o todo da tecnologia, então vivo aprendendo novas linguagens, frameworks e ferramentas.
