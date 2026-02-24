@@ -3,10 +3,11 @@
 
 ---
 
-### 💼 Sobre mim
+###  Sobre mim
 
 Sou estudante de **Engenharia da Computação** e trabalho com Tecnologia da Informação, sempre curioso e pronto pra entender como as coisas realmente funcionam.
-##Tenho um grande interesse na área de dados e automações.##
+
+Tenho um grande interesse na área de dados e cloud. Além também na area de automações.
 
 ---
 
