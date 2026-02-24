@@ -6,9 +6,7 @@
 ### 💼 Sobre mim
 
 Sou estudante de **Engenharia da Computação** e trabalho com Tecnologia da Informação, sempre curioso e pronto pra entender como as coisas realmente funcionam.
-Durante minha trajetória, já atuei com suporte técnico, implantação de sistemas e integração de dados — experiências que me deram uma visão ampla e estratégica sobre o ecossistema de TI e como tudo se conecta.
-
-Tenho um grande interesse na área de dados e cloud.
+##Tenho um grande interesse na área de dados e automações.##
 
 ---
 
