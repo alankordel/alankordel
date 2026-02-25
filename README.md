@@ -5,9 +5,10 @@
 
 ###  Sobre mim
 
-Sou estudante de **Engenharia da Computação** e trabalho com Tecnologia da Informação, sempre curioso e pronto pra entender como as coisas realmente funcionam.
+Sou formando de **Engenharia da Computação** e trabalho com TI.
+Curioso por natureza, gosto de entender como as coisas realmente funcionam — principalmente quando envolve dados, cloud e automação.
 
-Tenho um grande interesse na área de dados e cloud. Além também na area de automações.
+Uso este GitHub para compartilhar projetos, estudos e tudo que estou aprendendo pelo caminho.
 
 ---
 
