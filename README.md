@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Alan Kordel</h1>
-<h3 align="center"> Cloud & Data | Sempre aprendendo algo novo</h3>
+<h3 align="center">  Sempre aprendendo algo novo | Automação | Dados | Cloud |</h3>
 
 ---
 
