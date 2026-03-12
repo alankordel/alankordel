@@ -5,7 +5,7 @@
 
 ###  Sobre mim
 
-Sou alan Kordel, formando em **Engenharia da Computação** na Universidade Positivo e com atuação pratica com Dados e Automação. Desenvolvo e orquestro pipelines de dados, unindo eficiência técnica e propósito de facilitar minha rotina na area de TI. Trabalho com Python, Databricks, SQL, Azure, AWS, Airflow, Powershell e APIs REST/Web Scraping para automação de processos de ingestão e transformação.
+Sou Alan Kordel, formando em **Engenharia da Computação** na Universidade Positivo e com atuação pratica com Dados e Automação. Desenvolvo e orquestro pipelines de dados, unindo eficiência técnica e propósito de facilitar minha rotina na area de TI. Trabalho com Python, Databricks, SQL, Azure, AWS, Airflow, Powershell e APIs REST/Web Scraping para automação de processos de ingestão e transformação.
 Curioso por natureza, gosto de entender como as coisas realmente funcionam .
 
 Uso este GitHub para compartilhar projetos, estudos e tudo que estou aprendendo pelo caminho.
