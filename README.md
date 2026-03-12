@@ -12,12 +12,6 @@ Uso este GitHub para compartilhar projetos, estudos e tudo que estou aprendendo 
 
 ---
 
-<img src="https://raw.githubusercontent.com/alankordel/alankordel/output/snake.svg" alt="Snake animation" />
-
-###
-
----
-
 ### ⚙️ Tecnologias e Ferramentas
 
 <p align="left">
