@@ -22,26 +22,22 @@
 
 ## 🕸️ A Teia | Sobre mim
 
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <h3>Uma trajetória, vários pontos conectados</h3>
-      <p>Sou formado em <strong>Engenharia da Computação</strong> pela Universidade Positivo. Minha base veio do suporte técnico N2: investigar incidentes, analisar sinais, encontrar causas e documentar soluções.</p>
-      <p>Hoje levo essa visão operacional para <strong>Engenharia de Dados</strong>. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.</p>
-      <ul>
-        <li>📍 Curitiba, Paraná</li>
-        <li>🔎 Suporte N2, diagnóstico e automação</li>
-        <li>🐍 Python, SQL e APIs REST</li>
-        <li>☁️ Cloud e containers em evolução</li>
-        <li>🏎️ Automobilismo, telemetria e café</li>
-        <li>🌐 Inglês intermediário</li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="340">
-    </td>
-  </tr>
-</table>
+### Uma trajetória, vários pontos conectados
+
+Sou formado em **Engenharia da Computação** pela Universidade Positivo. Minha base veio do suporte técnico N2: investigar incidentes, analisar sinais, encontrar causas e documentar soluções.
+
+Hoje levo essa visão operacional para **Engenharia de Dados**. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.
+
+- 📍 Curitiba, Paraná
+- 🔎 Suporte N2, diagnóstico e automação
+- 🐍 Python, SQL e APIs REST
+- ☁️ Cloud e containers em evolução
+- 🏎️ Automobilismo, telemetria e café
+- 🌐 Inglês intermediário
+
+<p align="center">
+  <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="460">
+</p>
 
 > Assim como uma teia conecta diferentes pontos, minha trajetória conecta **suporte, automação, dados, Cloud e engenharia**.
 
@@ -83,21 +79,17 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 ## 🧰 Tech Web | Tecnologias
 
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="assets/spider/coding-web.jpg" alt="Spider-Man trabalhando no computador sobre uma teia" width="320">
-    </td>
-    <td width="66%" valign="middle">
-      <h3>Stack em campo</h3>
-      <p><strong>Dados e pipelines</strong><br>Python · SQL · Pandas · ETL · Parquet · contratos e qualidade de dados</p>
-      <p><strong>Bancos de dados</strong><br>PostgreSQL · MySQL · modelagem relacional · Star Schema · Data Warehouse</p>
-      <p><strong>Automação e integração</strong><br>APIs REST · Requests · PowerShell · Batch · Web Scraping</p>
-      <p><strong>Cloud, containers e entrega</strong><br>Docker · Docker Compose · Git · GitHub · GitHub Actions · Azure · AWS</p>
-      <p><strong>Visualização, testes e ferramentas</strong><br>Streamlit · Plotly · Power BI · Pytest · Ruff · Alembic · VS Code · Postman</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/spider/coding-web.jpg" alt="Spider-Man trabalhando no computador sobre uma teia" width="520">
+</p>
+
+### Stack em campo
+
+- **Dados e pipelines:** Python, SQL, Pandas, ETL, Parquet, contratos e qualidade de dados.
+- **Bancos de dados:** PostgreSQL, MySQL, modelagem relacional, Star Schema e Data Warehouse.
+- **Automação e integração:** APIs REST, Requests, PowerShell, Batch e Web Scraping.
+- **Cloud, containers e entrega:** Docker, Docker Compose, Git, GitHub, GitHub Actions, Azure e AWS.
+- **Visualização, testes e ferramentas:** Streamlit, Plotly, Power BI, Pytest, Ruff, Alembic, VS Code e Postman.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,azure,aws,git,github,powershell,vscode,postman" alt="Ícones de Python, PostgreSQL, MySQL, Docker, Azure, AWS, Git, GitHub, PowerShell, VS Code e Postman">
