@@ -16,20 +16,19 @@
   <img src="https://img.shields.io/badge/Curitiba%2FPR-060910?style=for-the-badge&logo=googlemaps&logoColor=E62429" alt="Curitiba, Paraná">
 </p>
 
-<p align="center"><em>Transformo dados brutos em decisões e processos manuais em automações confiáveis.</em></p>
+<p align="center"><em>Analiso uns dados e automatizo algumas coisas. Não é exatamente salvar Mundo… mas alguém precisa fazer.
+.</em></p>
 
 <p align="center"><img src="assets/animations/web-divider.svg" alt="Divisor animado em forma de teia e fluxo de dados" width="100%"></p>
 
-## 🕸️ A Teia | Sobre mim
+## 🕸️  Sobre mim
 
-### Uma trajetória, vários pontos conectados
+### Trajetória
 
-Sou formado em **Engenharia da Computação** pela Universidade Positivo. Minha base veio do suporte técnico N2: investigar incidentes, analisar sinais, encontrar causas e documentar soluções.
-
-Hoje levo essa visão operacional para **Engenharia de Dados**. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.
+Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho experiencia em Migrações, sustentação e desenvolvimento em Sistemas. Levo essa visão operacional para **Engenharia de Dados**. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.
 
 - 📍 Curitiba, Paraná
-- 🔎 Suporte N2, diagnóstico e automação
+- 🔎 Suporte N3, Diagnóstico e automação
 - 🐍 Python, SQL e APIs REST
 - ☁️ Cloud e containers em evolução
 - 🏎️ Automobilismo, telemetria e café
@@ -39,11 +38,9 @@ Hoje levo essa visão operacional para **Engenharia de Dados**. Construo pipelin
   <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="460">
 </p>
 
-> Assim como uma teia conecta diferentes pontos, minha trajetória conecta **suporte, automação, dados, Cloud e engenharia**.
+> **automação, dados, Cloud e engenharia**.
 
 ## ⚡ Spider-Sense | Como trabalho
-
-Meu “sentido-aranha” profissional não prevê o futuro — ele procura o sinal que explica o problema.
 
 <p align="center"><img src="assets/sections/evolution-web.svg" alt="Evolução profissional: suporte técnico, automação, dados, Cloud e engenharia" width="100%"></p>
 
@@ -61,7 +58,7 @@ Meu “sentido-aranha” profissional não prevê o futuro — ele procura o sin
 
 ## 🌐 Web of Projects | Projetos em destaque
 
-Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectado pela mesma forma de pensar.
+Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me manter atualizado.
 
 <a href="https://github.com/alankordel/kordel-racing-data-lab"><img src="assets/projects/kordel-racing.svg" alt="Card do projeto Kordel Racing Data Lab" width="100%"></a>
 
