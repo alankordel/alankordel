@@ -114,7 +114,7 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
 > Os números mudam; as evidências ficam nos projetos, testes e decisões documentadas acima.
 
 <p align="center">
-  <img src="assets/stickers-current/three-heroes.png" alt="Três versões cinematográficas do Spider-Man" height="128">
+  <img src="assets/spider/spiderman-meme.jpg" alt="Dois Spider-Man apontando um para o outro" width="560">
 </p>
 
 ## 🕷️ Contribution Web
