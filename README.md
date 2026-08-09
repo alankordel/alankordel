@@ -43,7 +43,7 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
 - 🌐 Inglês intermediário
 
 <p align="center">
-  <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="460">
+  <img src="assets/spider/coding-break.jpg" alt="Spider-Man trabalhando atrás de uma mesa no escritório" width="460">
 </p>
 
 <p align="left">
