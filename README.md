@@ -31,6 +31,8 @@
 
 ## 🕸️  Sobre mim
 
+Por incrível que pareça, sou fã do Homem-Aranha. Também curto séries, games e HQs. No tempo livre, gosto de ler, jogar, maratonar alguma história ou ir ao cinema. Sou apaixonado por Fórmula 1, torcedor do São Paulo Futebol Clube e fã de Supernatural. Tudo isso acompanhado de um bom cafézinho.
+
 ### Trajetória
 
 Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho experiencia em Migrações, sustentação e desenvolvimento em Sistemas. Levo essa visão operacional para **Engenharia de Dados**. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.
