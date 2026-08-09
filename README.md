@@ -141,8 +141,7 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
 
 <a href="https://github.com/alankordel/monitor-precos-estoque"><img src="assets/projects/monitor-precos.svg" alt="Card do projeto Monitor de Preços e Estoque, em construção" width="100%"></a>
 
-<p align="center">
-  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
+<p align="Lleft">
   &nbsp;&nbsp;
   <img src="assets/stickers-current/comic-leap.png" alt="Spider-Man saltando entre páginas de quadrinhos" height="128">
   &nbsp;&nbsp;
