@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Alan Kordel — Computer Engineer</title>
+  <desc id="desc">Rede de dados animada com telemetria, runas e vapor de café.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b12"/><stop offset=".55" stop-color="#101923"/><stop offset="1" stop-color="#170c12"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".48" stop-color="#22d3ee"/><stop offset="1" stop-color="#a5263d" stop-opacity=".2"/>
+    </linearGradient>
+    <radialGradient id="pulse"><stop offset="0" stop-color="#fff"/><stop offset=".25" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#dbeafe" stroke-opacity=".035"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .flow{stroke-dasharray:8 18;animation:flow 4s linear infinite}.flow.slow{animation-duration:7s;animation-direction:reverse}
+      .node{transform-box:fill-box;transform-origin:center;animation:node 2.8s ease-in-out infinite}.n2{animation-delay:-.9s}.n3{animation-delay:-1.8s}
+      .rune{animation:rune 4s ease-in-out infinite}.rune:nth-child(2){animation-delay:-2s}
+      .trace{stroke-dasharray:360;stroke-dashoffset:360;animation:trace 4.5s ease-in-out infinite}
+      .steam{stroke-dasharray:30;animation:steam 3.2s linear infinite}.steam.two{animation-delay:-1.4s}
+      .cursor{animation:blink 1.4s steps(2,end) infinite}
+      @keyframes flow{to{stroke-dashoffset:-52}}@keyframes node{50%{transform:scale(1.7);opacity:1}}
+      @keyframes rune{50%{opacity:1;filter:url(#glow)}}@keyframes trace{45%,70%{stroke-dashoffset:0}100%{stroke-dashoffset:-360}}
+      @keyframes steam{to{stroke-dashoffset:-60}}@keyframes blink{50%{opacity:.2}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <g fill="none" stroke="#22d3ee" stroke-opacity=".3" stroke-width="1.5">
+    <path class="flow" d="M0 70L102 31l91 61 103-48 111 42"/><path class="flow slow" d="M0 229l98-70 100 52 102-89 107 51"/>
+    <path d="M102 31L98 159m95-67 5 119M296 44l4 78m107-36-107 36"/><path class="flow" d="M0 145h407"/>
+  </g>
+  <g fill="url(#pulse)" filter="url(#glow)"><circle class="node" cx="102" cy="31" r="7"/><circle class="node n2" cx="193" cy="92" r="7"/><circle class="node n3" cx="300" cy="122" r="7"/><circle class="node n2" cx="407" cy="86" r="7"/></g>
+
+  <g transform="translate(48 91)" fill="none" stroke="#d1a45f" stroke-width="2" opacity=".48">
+    <path class="rune" d="M34 0l34 58-34 58L0 58zM34 20v76M12 58h44M18 32l31 52"/>
+    <circle class="rune" cx="34" cy="58" r="48" stroke-dasharray="4 9"/>
+  </g>
+
+  <g font-family="Segoe UI,Inter,Arial,sans-serif">
+    <text x="445" y="110" fill="#f8fafc" font-size="52" font-weight="700" letter-spacing="1">Alan Kordel<tspan class="cursor" fill="#22d3ee">_</tspan></text>
+    <text x="448" y="151" fill="#c3d0dc" font-size="22" letter-spacing="3">COMPUTER ENGINEER</text>
+    <path class="trace" d="M448 177h72l12-16 15 31 18-48 19 33h432" fill="none" stroke="url(#signal)" stroke-width="2.5"/>
+    <text x="448" y="220" fill="#22d3ee" font-size="22" font-weight="600">Data Engineering  •  Automation  •  Cloud</text>
+  </g>
+
+  <g transform="translate(1015 164)" fill="none" stroke="#d1a45f" stroke-width="3" stroke-linecap="round">
+    <path d="M18 35h72v31c0 28-15 42-36 42S18 94 18 66zM90 46h10c25 0 25 34 0 34H90M7 111h108"/>
+    <path class="steam" d="M38 25c-13-15 13-20 0-38M59 25c-13-15 13-20 0-38" stroke-opacity=".75"/>
+    <path class="steam two" d="M80 25c-13-15 13-20 0-38" stroke-opacity=".75"/>
+  </g>
+  <path class="flow" d="M20 276h390" fill="none" stroke="#a5263d" stroke-width="3"/><text x="1047" y="63" fill="#64748b" font-family="Consolas,monospace" font-size="10">SIGNAL: LIVE</text>
+  <circle class="node n3" cx="1034" cy="60" r="4" fill="#22d3ee"/><rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#e2e8f0" stroke-opacity=".1"/>
+</svg>

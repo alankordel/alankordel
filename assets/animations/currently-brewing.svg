@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">Currently brewing</title><desc id="desc">Café em preparo com vapor virando código e dados atravessando um pipeline.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1"><stop stop-color="#0b1119"/><stop offset="1" stop-color="#151019"/></linearGradient>
+    <linearGradient id="bar" x2="1"><stop stop-color="#9a633a"/><stop offset=".55" stop-color="#d1a45f"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .steam{stroke-dasharray:24;animation:rise 3s linear infinite}.s2{animation-delay:-1s}.s3{animation-delay:-2s}
+      .code{animation:code 3s ease-in-out infinite}.c2{animation-delay:-1s}.c3{animation-delay:-2s}
+      .fill{transform-box:fill-box;transform-origin:left;animation:fill 6s ease-in-out infinite}.dot{animation:dot 2.4s ease-in-out infinite}.d2{animation-delay:-.8s}.d3{animation-delay:-1.6s}
+      @keyframes rise{to{stroke-dashoffset:-48}}@keyframes code{0%,100%{opacity:.2;transform:translateY(5px)}50%{opacity:1;transform:translateY(-4px)}}
+      @keyframes fill{0%,8%{transform:scaleX(.08)}65%,90%{transform:scaleX(1)}100%{transform:scaleX(.08)}}@keyframes dot{50%{opacity:1;filter:url(#g)}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}.fill{transform:scaleX(1)}}
+    </style>
+  </defs>
+  <rect width="760" height="180" rx="16" fill="url(#bg)"/><rect x="1" y="1" width="758" height="178" rx="15" fill="none" stroke="#cbd5e1" stroke-opacity=".12"/>
+  <g transform="translate(62 48)" fill="none" stroke="#d1a45f" stroke-width="3" stroke-linecap="round">
+    <path d="M0 28h82v39c0 27-17 41-41 41S0 94 0 67zM82 42h9c24 0 24 32 0 32h-9M-10 111h119"/>
+    <path class="steam" d="M19 17C5 0 32-5 18-25"/><path class="steam s2" d="M42 17C28 0 55-5 41-25"/><path class="steam s3" d="M65 17C51 0 78-5 64-25"/>
+  </g>
+  <g font-family="Consolas,monospace" font-size="17" fill="#22d3ee"><text class="code" x="185" y="49">{ data }</text><text class="code c2" x="277" y="49">&lt;code/&gt;</text><text class="code c3" x="370" y="49">git commit</text></g>
+  <g font-family="Segoe UI,Arial,sans-serif"><text x="185" y="92" fill="#f8fafc" font-size="26" font-weight="700">CURRENTLY BREWING</text><text x="185" y="119" fill="#94a3b8" font-size="15">Monitor de Preços e Estoque • evolução contínua</text></g>
+  <rect x="185" y="139" width="500" height="7" rx="3.5" fill="#334155"/><rect class="fill" x="185" y="139" width="500" height="7" rx="3.5" fill="url(#bar)"/>
+  <g fill="#22d3ee" opacity=".3"><circle class="dot" cx="707" cy="49" r="4"/><circle class="dot d2" cx="723" cy="49" r="4"/><circle class="dot d3" cx="739" cy="49" r="4"/></g>
+</svg>

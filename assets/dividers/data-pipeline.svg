@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-labelledby="title desc">
+  <title id="title">Pipeline de problema a decisão</title><desc id="desc">Pulso animado atravessa quatro etapas de um pipeline de engenharia.</desc>
+  <defs>
+    <linearGradient id="line" x2="1"><stop stop-color="#a5263d"/><stop offset=".45" stop-color="#22d3ee"/><stop offset="1" stop-color="#d1a45f"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .track{stroke-dasharray:10 16;animation:track 4s linear infinite}.pulse{animation:pulse 5s cubic-bezier(.4,0,.2,1) infinite}.stage{animation:stage 5s ease-in-out infinite}.b{animation-delay:-3.75s}.c{animation-delay:-2.5s}.d{animation-delay:-1.25s}
+      @keyframes track{to{stroke-dashoffset:-52}}@keyframes pulse{0%{transform:translateX(0)}100%{transform:translateX(930px)}}@keyframes stage{0%,18%,100%{opacity:.35}25%,45%{opacity:1;filter:url(#glow)}}
+      @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect width="1200" height="90" rx="12" fill="#0b1119"/><path class="track" d="M135 45h930" stroke="url(#line)" stroke-width="3" fill="none"/>
+  <g font-family="Consolas,monospace" font-size="13" text-anchor="middle">
+    <g class="stage a"><circle cx="135" cy="45" r="10" fill="#a5263d"/><text x="135" y="77" fill="#cbd5e1">PROBLEMA</text></g>
+    <g class="stage b"><circle cx="445" cy="45" r="10" fill="#22d3ee"/><text x="445" y="77" fill="#cbd5e1">ENGENHARIA</text></g>
+    <g class="stage c"><circle cx="755" cy="45" r="10" fill="#22d3ee"/><text x="755" y="77" fill="#cbd5e1">QUALIDADE</text></g>
+    <g class="stage d"><circle cx="1065" cy="45" r="10" fill="#d1a45f"/><text x="1065" y="77" fill="#cbd5e1">DECISÃO</text></g>
+  </g>
+  <g class="pulse" filter="url(#glow)"><circle cx="135" cy="45" r="7" fill="#fff"/><circle cx="135" cy="45" r="14" fill="#22d3ee" opacity=".25"/></g>
+  <rect x="1" y="1" width="1198" height="88" rx="11" fill="none" stroke="#cbd5e1" stroke-opacity=".1"/>
+</svg>
