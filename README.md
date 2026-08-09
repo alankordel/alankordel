@@ -60,7 +60,7 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
   <img src="assets/stickers-current/comic-eyes.png" alt="Olhos atentos do Spider-Man em estilo de quadrinhos" height="92">
   &nbsp;&nbsp;
 </p>
-<p align="center"><img src="assets/sections/evolution-web.svg" alt="Evolução profissional: suporte técnico, automação, dados, Cloud e engenharia" width="100%"></p>
+<p align="center"><img src="assets/sections/evolution-web.svg" alt="Evolução profissional: Analise, Automação, Dados, Cloud e Engenharia" width="100%"></p>
 
 | Sinal detectado | Resposta de engenharia |
 |---|---|
