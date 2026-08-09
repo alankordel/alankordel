@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="assets/characters/spider-data-engineer.png" alt="Mascote original Spider Data Engineer trabalhando em um notebook" width="340">
+      <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="340">
     </td>
   </tr>
 </table>
@@ -83,11 +83,35 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 ## 🧰 Tech Web | Tecnologias
 
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <img src="assets/spider/coding-web.jpg" alt="Spider-Man trabalhando no computador sobre uma teia" width="320">
+    </td>
+    <td width="66%" valign="middle">
+      <h3>Stack em campo</h3>
+      <p><strong>Dados e pipelines</strong><br>Python · SQL · Pandas · ETL · Parquet · contratos e qualidade de dados</p>
+      <p><strong>Bancos de dados</strong><br>PostgreSQL · MySQL · modelagem relacional · Star Schema · Data Warehouse</p>
+      <p><strong>Automação e integração</strong><br>APIs REST · Requests · PowerShell · Batch · Web Scraping</p>
+      <p><strong>Cloud, containers e entrega</strong><br>Docker · Docker Compose · Git · GitHub · GitHub Actions · Azure · AWS</p>
+      <p><strong>Visualização, testes e ferramentas</strong><br>Streamlit · Plotly · Power BI · Pytest · Ruff · Alembic · VS Code · Postman</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,azure,aws,git,github,powershell,vscode,postman" alt="Ícones de Python, PostgreSQL, MySQL, Docker, Azure, AWS, Git, GitHub, PowerShell, VS Code e Postman">
+</p>
+
 <p align="center"><img src="assets/sections/tech-web.svg" alt="Teia tecnológica de Alan Kordel organizada entre dados, automação, Cloud, analytics e DevOps" width="820"></p>
 
 <p align="center">
   <strong>● Em projetos</strong> &nbsp; <strong>◉ Uso profissional</strong> &nbsp; <strong>○ Em evolução</strong>
 </p>
+
+| Em projetos e prática | Experiência operacional | Em evolução |
+|---|---|---|
+| Python, SQL, Pandas, PostgreSQL, MySQL, APIs REST, Docker, GitHub Actions, Streamlit | PowerShell, Batch, Microsoft 365, suporte N2, automação e análise de logs | Databricks, Airflow, Azure e AWS |
 
 ## 📡 Signals Across the Multiverse | GitHub Stats
 
@@ -106,6 +130,10 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 <p align="center"><img src="assets/animations/contribution-web.svg" alt="Aranha de dados percorrendo uma teia de contribuições" width="100%"></p>
 
+<p align="center">
+  <img src="assets/spider/study-night.jpg" alt="Spider-Man estudando e investigando diante do computador" width="520">
+</p>
+
 ## 🧵 Currently Weaving | Em construção
 
 <p align="center"><img src="assets/sections/currently-weaving.svg" alt="Teia incompleta mostrando os estudos e projetos atuais" width="100%"></p>
@@ -115,6 +143,10 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 - **Engenharia de Dados:** qualidade, arquitetura de pipelines e observabilidade.
 - **Cloud e DevOps:** containers, integração contínua e fundamentos de Azure e AWS.
 - **Próximos nós:** Databricks e Airflow como tecnologias em evolução.
+
+<p align="center">
+  <img src="assets/spider/city-break.jpg" alt="Spider-Man descansando em uma teia sobre a cidade ao entardecer" width="420">
+</p>
 
 ## 🕸️ Send the Signal | Contato
 
