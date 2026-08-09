@@ -18,6 +18,18 @@
 
 <p align="center"><em>Transformo dados brutos em decisões e processos manuais em automações confiáveis.</em></p>
 
+<p align="center">
+  <img src="assets/stickers/denim-star.png" alt="Estrela jeans com máscara do Spider" height="88">
+  &nbsp;
+  <img src="assets/stickers/lightning.png" alt="Raio vermelho e azul" height="88">
+  &nbsp;
+  <img src="assets/stickers/portrait-note.png" alt="Retrato do Spider em nota amarela" height="88">
+  &nbsp;
+  <img src="assets/stickers/multiverse-mask.png" alt="Máscara multiversal em vermelho, preto e roxo" height="88">
+  &nbsp;
+  <img src="assets/stickers/web-hand.png" alt="Mão fazendo o gesto de lançar teia" height="88">
+</p>
+
 <p align="center"><img src="assets/animations/web-divider.svg" alt="Divisor animado em forma de teia e fluxo de dados" width="100%"></p>
 
 ## 🕸️ A Teia | Sobre mim
@@ -138,6 +150,18 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 <p align="center">
   <img src="assets/spider/city-break.jpg" alt="Spider-Man descansando em uma teia sobre a cidade ao entardecer" width="420">
+</p>
+
+<p align="center">
+  <img src="assets/stickers/comic-disc.png" alt="Disco com ilustração do Spider" height="92">
+  &nbsp;
+  <img src="assets/stickers/guitar-hero.png" alt="Spider colorido tocando guitarra" height="92">
+  &nbsp;
+  <img src="assets/stickers/dont-panic.png" alt="Sticker em quadrinhos com a frase Don't Panic" height="92">
+  &nbsp;
+  <img src="assets/stickers/spider-cat.png" alt="Gato com fantasia do Spider" height="92">
+  &nbsp;
+  <img src="assets/stickers/love-spider.png" alt="Sticker I love Spider-Man" height="92">
 </p>
 
 ## 🕸️ Send the Signal | Contato
