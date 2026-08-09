@@ -36,17 +36,17 @@
 Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho experiencia em Migrações, sustentação e desenvolvimento em Sistemas. Levo essa visão operacional para **Engenharia de Dados**. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.
 
 - 📍 Curitiba, Paraná
-- 🔎 Suporte N3, Diagnóstico e automação
+- 🔎 Suporte N3, Diagnóstico, ETL e automação
 - 🐍 Python, SQL e APIs REST
-- ☁️ Cloud e containers em evolução
-- 🏎️ Automobilismo, telemetria e café
+- ☁️ **Cloud e Dados:** Azure, AWS, Power BI, SQL
+- 🧩 **Ferramentas:** Git, GitHub, VS Code, Docker, Figma, Postman
 - 🌐 Inglês intermediário
 
 <p align="center">
   <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="460">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="assets/stickers-current/portrait-note.png" alt="Retrato clássico do Spider-Man em uma nota amarela" height="118">
 </p>
 
@@ -57,7 +57,6 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
 <p align="center">
   <img src="assets/stickers-current/comic-eyes.png" alt="Olhos atentos do Spider-Man em estilo de quadrinhos" height="92">
   &nbsp;&nbsp;
-  <img src="assets/stickers-current/modern-mask.png" alt="Máscara moderna do Spider-Man representando o sentido-aranha" height="118">
 </p>
 <p align="center"><img src="assets/sections/evolution-web.svg" alt="Evolução profissional: suporte técnico, automação, dados, Cloud e engenharia" width="100%"></p>
 
