@@ -104,7 +104,7 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
 
 | Em projetos e prática | Experiência operacional | Em evolução |
 |---|---|---|
-| Python, SQL, Pandas, PostgreSQL, MySQL, APIs REST, Docker, GitHub Actions, Streamlit | PowerShell, Batch, Microsoft 365, suporte N2, automação e análise de logs | Databricks, Airflow, Azure e AWS |
+| Python, SQL, Pandas, PostgreSQL, MySQL, APIs REST, Docker, GitHub Actions, Streamlit | Python, SQL, Azure, PowerShell, Batch, Microsoft 365, suporte N2, automação e análise de logs | Databricks, Airflow e AWS |
 
 ## 📡 Signals Across the Multiverse | GitHub Stats
 
