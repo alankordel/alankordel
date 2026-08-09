@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="assets/stickers-current/hello-alan-kordel.png" alt="Etiqueta Hello, my name is Alan Kordel" width="165">
+</p>
+
 <p align="center">
   <img src="assets/banner-alan-verse.svg" alt="Alan-Verse: Alan Kordel, Computer Engineer, Data Engineering, Automation e Cloud" width="100%">
 </p>
@@ -19,6 +23,10 @@
 <p align="center"><em>Analiso uns dados e automatizo algumas coisas. Não é exatamente salvar Mundo… mas alguém precisa fazer.
 .</em></p>
 
+<p align="left">
+  <img src="assets/stickers-current/upside-down.png" alt="Spider-Man pendurado de cabeça para baixo" height="96">
+</p>
+
 <p align="center"><img src="assets/animations/web-divider.svg" alt="Divisor animado em forma de teia e fluxo de dados" width="100%"></p>
 
 ## 🕸️  Sobre mim
@@ -38,10 +46,19 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
   <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="460">
 </p>
 
+<p align="center">
+  <img src="assets/stickers-current/portrait-note.png" alt="Retrato clássico do Spider-Man em uma nota amarela" height="118">
+</p>
+
 > **automação, dados, Cloud e engenharia**.
 
 ## ⚡ Spider-Sense | Como trabalho
 
+<p align="center">
+  <img src="assets/stickers-current/comic-eyes.png" alt="Olhos atentos do Spider-Man em estilo de quadrinhos" height="92">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/modern-mask.png" alt="Máscara moderna do Spider-Man representando o sentido-aranha" height="118">
+</p>
 <p align="center"><img src="assets/sections/evolution-web.svg" alt="Evolução profissional: suporte técnico, automação, dados, Cloud e engenharia" width="100%"></p>
 
 | Sinal detectado | Resposta de engenharia |
@@ -68,6 +85,14 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
 
 <a href="https://github.com/alankordel/monitor-precos-estoque"><img src="assets/projects/monitor-precos.svg" alt="Card do projeto Monitor de Preços e Estoque, em construção" width="100%"></a>
 
+<p align="center">
+  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/comic-leap.png" alt="Spider-Man saltando entre páginas de quadrinhos" height="128">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/pink-amazing.png" alt="Sticker Amazing Spider-Man em estilo de quadrinhos" height="112">
+</p>
+
 <details>
   <summary><strong>Outra conexão da teia: suporte e automação</strong></summary>
   <br>
@@ -92,6 +117,10 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,azure,aws,git,github,powershell,vscode,postman" alt="Ícones de Python, PostgreSQL, MySQL, Docker, Azure, AWS, Git, GitHub, PowerShell, VS Code e Postman">
 </p>
 
+<p align="center">
+  <img src="assets/stickers-current/red-emblem.png" alt="Emblema vermelho de aranha" height="108">
+</p>
+
 <p align="center"><img src="assets/sections/tech-web.svg" alt="Teia tecnológica de Alan Kordel organizada entre dados, automação, Cloud, analytics e DevOps" width="820"></p>
 
 <p align="center">
@@ -111,6 +140,10 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
 
 > Os números mudam; as evidências ficam nos projetos, testes e decisões documentadas acima.
 
+<p align="center">
+  <img src="assets/stickers-current/three-heroes.png" alt="Três versões cinematográficas do Spider-Man" height="128">
+</p>
+
 ## 🕷️ Contribution Web
 
 <p align="center">
@@ -123,15 +156,11 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
   <img src="assets/spider/study-night.jpg" alt="Spider-Man estudando e investigando diante do computador" width="520">
 </p>
 
-## 🧵 Currently Weaving | Em construção
+<p align="center">
+  <img src="assets/stickers-current/newspaper-hero.png" alt="Spider-Man sobre uma página de jornal" height="138">
+</p>
 
 <p align="center"><img src="assets/sections/currently-weaving.svg" alt="Teia incompleta mostrando os estudos e projetos atuais" width="100%"></p>
-
-- **Monitor de Preços e Estoque:** evolução do MVP com PostgreSQL, Alembic, Docker Compose, alertas, dashboard e testes.
-- **Kordel Racing Data Lab:** novos contratos e validações entre datasets no pipeline de telemetria.
-- **Engenharia de Dados:** qualidade, arquitetura de pipelines e observabilidade.
-- **Cloud e DevOps:** containers, integração contínua e fundamentos de Azure e AWS.
-- **Próximos nós:** Databricks e Airflow como tecnologias em evolução.
 
 <p align="center">
   <img src="assets/spider/city-break.jpg" alt="Spider-Man descansando em uma teia sobre a cidade ao entardecer" width="420">
