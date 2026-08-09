@@ -73,29 +73,6 @@ Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho 
 
 <p align="center"><img src="assets/animations/web-divider.svg" alt="Divisor animado em forma de teia e fluxo de dados" width="100%"></p>
 
-## 🌐 Web of Projects | Projetos em destaque
-
-Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me manter atualizado.
-
-<a href="https://github.com/alankordel/kordel-racing-data-lab"><img src="assets/projects/kordel-racing.svg" alt="Card do projeto Kordel Racing Data Lab" width="100%"></a>
-
-<a href="https://github.com/alankordel/sql-analytics-ecommerce-simulation"><img src="assets/projects/sql-analytics.svg" alt="Card do projeto SQL Analytics E-commerce" width="100%"></a>
-
-<a href="https://github.com/alankordel/hunter-job-for-me"><img src="assets/projects/hunter-job.svg" alt="Card do projeto Hunter Job for Me" width="100%"></a>
-
-<a href="https://github.com/alankordel/monitor-precos-estoque"><img src="assets/projects/monitor-precos.svg" alt="Card do projeto Monitor de Preços e Estoque, em construção" width="100%"></a>
-
-<p align="center">
-  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
-  &nbsp;&nbsp;
-  <img src="assets/stickers-current/comic-leap.png" alt="Spider-Man saltando entre páginas de quadrinhos" height="128">
-  &nbsp;&nbsp;
-  <img src="assets/stickers-current/pink-amazing.png" alt="Sticker Amazing Spider-Man em estilo de quadrinhos" height="112">
-</p>
-
-<details>
-
-
 ## 🧰 Tech Web | Tecnologias
 
 <p align="center">
@@ -152,6 +129,27 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
 <p align="center">
   <img src="assets/spider/study-night.jpg" alt="Spider-Man estudando e investigando diante do computador" width="520">
 </p>
+
+## 🌐 Web of Projects | Projetos em destaque
+
+Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me manter atualizado.
+
+<a href="https://github.com/alankordel/kordel-racing-data-lab"><img src="assets/projects/kordel-racing.svg" alt="Card do projeto Kordel Racing Data Lab" width="100%"></a>
+
+<a href="https://github.com/alankordel/sql-analytics-ecommerce-simulation"><img src="assets/projects/sql-analytics.svg" alt="Card do projeto SQL Analytics E-commerce" width="100%"></a>
+
+<a href="https://github.com/alankordel/hunter-job-for-me"><img src="assets/projects/hunter-job.svg" alt="Card do projeto Hunter Job for Me" width="100%"></a>
+
+<a href="https://github.com/alankordel/monitor-precos-estoque"><img src="assets/projects/monitor-precos.svg" alt="Card do projeto Monitor de Preços e Estoque, em construção" width="100%"></a>
+
+<p align="center">
+  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/comic-leap.png" alt="Spider-Man saltando entre páginas de quadrinhos" height="128">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/pink-amazing.png" alt="Sticker Amazing Spider-Man em estilo de quadrinhos" height="112">
+</p>
+
 
 
 ## 🕸️ Send the Signal | Contato
