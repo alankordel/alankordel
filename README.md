@@ -36,7 +36,7 @@
 Sou formado em **Engenharia da Computação** pela Universidade Positivo. Tenho experiencia em Migrações, sustentação e desenvolvimento em Sistemas. Levo essa visão operacional para **Engenharia de Dados**. Construo pipelines, automações e projetos orientados a problemas reais, trabalhando principalmente com Python, SQL, qualidade de dados, containers e Cloud.
 
 - 📍 Curitiba, Paraná
-- 🔎 Suporte N3, Diagnóstico, ETL e automação
+- 🔎 Engenheiro de Dados, Analista de Dados, Analista de Sistemas
 - 🐍 Python, SQL e APIs REST
 - ☁️ **Cloud e Dados:** Azure, AWS, Power BI, SQL
 - 🧩 **Ferramentas:** Git, GitHub, VS Code, Docker, Figma, Postman
