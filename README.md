@@ -92,8 +92,8 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 ## 📡 Signals Across the Multiverse | GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alankordel&show_icons=true&hide_border=true&bg_color=060910&title_color=FF3040&icon_color=2F81F7&text_color=F0F6FC&ring_color=E62429" alt="Estatísticas gerais do GitHub de Alan Kordel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alankordel&layout=compact&hide_border=true&bg_color=060910&title_color=2F81F7&text_color=F0F6FC" alt="Linguagens mais utilizadas por Alan Kordel">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=alankordel&show_icons=true&hide_border=true&bg_color=060910&title_color=FF3040&icon_color=2F81F7&text_color=F0F6FC&ring_color=E62429" alt="Estatísticas gerais do GitHub de Alan Kordel">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alankordel&layout=compact&hide_border=true&bg_color=060910&title_color=2F81F7&text_color=F0F6FC" alt="Linguagens mais utilizadas por Alan Kordel">
 </p>
 
 > Os números mudam; as evidências ficam nos projetos, testes e decisões documentadas acima.
