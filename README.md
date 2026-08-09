@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="assets/stickers-current/hello-alan-kordel.png" alt="Etiqueta Hello, my name is Alan Kordel" width="165">
+</p>
+
 <p align="center">
   <img src="assets/banner-alan-verse.svg" alt="Alan-Verse: Alan Kordel, Computer Engineer, Data Engineering, Automation e Cloud" width="100%">
 </p>
@@ -18,11 +22,7 @@
 
 <p align="center"><em>Transformo dados brutos em decisões e processos manuais em automações confiáveis.</em></p>
 
-<p align="center">
-  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
-  &nbsp;
-  <img src="assets/stickers-current/hello-alan-kordel.png" alt="Etiqueta Hello, my name is Alan Kordel" height="118">
-  &nbsp;
+<p align="left">
   <img src="assets/stickers-current/upside-down.png" alt="Spider-Man pendurado de cabeça para baixo" height="96">
 </p>
 
@@ -49,8 +49,6 @@ Hoje levo essa visão operacional para **Engenharia de Dados**. Construo pipelin
 
 <p align="center">
   <img src="assets/stickers-current/portrait-note.png" alt="Retrato clássico do Spider-Man em uma nota amarela" height="118">
-  &nbsp;&nbsp;
-  <img src="assets/stickers-current/spider-cat.png" alt="Spider-Man com máscara inspirada em um gato" height="118">
 </p>
 
 > Assim como uma teia conecta diferentes pontos, minha trajetória conecta **suporte, automação, dados, Cloud e engenharia**.
@@ -58,6 +56,12 @@ Hoje levo essa visão operacional para **Engenharia de Dados**. Construo pipelin
 ## ⚡ Spider-Sense | Como trabalho
 
 Meu “sentido-aranha” profissional não prevê o futuro — ele procura o sinal que explica o problema.
+
+<p align="center">
+  <img src="assets/stickers-current/comic-eyes.png" alt="Olhos atentos do Spider-Man em estilo de quadrinhos" height="92">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/modern-mask.png" alt="Máscara moderna do Spider-Man representando o sentido-aranha" height="118">
+</p>
 
 <p align="center"><img src="assets/sections/evolution-web.svg" alt="Evolução profissional: suporte técnico, automação, dados, Cloud e engenharia" width="100%"></p>
 
@@ -86,9 +90,11 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 <a href="https://github.com/alankordel/monitor-precos-estoque"><img src="assets/projects/monitor-precos.svg" alt="Card do projeto Monitor de Preços e Estoque, em construção" width="100%"></a>
 
 <p align="center">
-  <img src="assets/stickers-current/comic-eyes.png" alt="Olhos do Spider-Man em estilo de quadrinhos" height="92">
+  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
   &nbsp;&nbsp;
   <img src="assets/stickers-current/comic-leap.png" alt="Spider-Man saltando entre páginas de quadrinhos" height="128">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/pink-amazing.png" alt="Sticker Amazing Spider-Man em estilo de quadrinhos" height="112">
 </p>
 
 <details>
@@ -117,8 +123,6 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 <p align="center">
   <img src="assets/stickers-current/red-emblem.png" alt="Emblema vermelho de aranha" height="108">
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/stickers-current/modern-mask.png" alt="Máscara moderna do Spider-Man" height="128">
 </p>
 
 <p align="center"><img src="assets/sections/tech-web.svg" alt="Teia tecnológica de Alan Kordel organizada entre dados, automação, Cloud, analytics e DevOps" width="820"></p>
@@ -142,8 +146,6 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 <p align="center">
   <img src="assets/stickers-current/three-heroes.png" alt="Três versões cinematográficas do Spider-Man" height="128">
-  &nbsp;&nbsp;
-  <img src="assets/stickers-current/pink-amazing.png" alt="Sticker rosa Amazing Spider-Man" height="128">
 </p>
 
 ## 🕷️ Contribution Web
