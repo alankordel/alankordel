@@ -19,15 +19,11 @@
 <p align="center"><em>Transformo dados brutos em decisões e processos manuais em automações confiáveis.</em></p>
 
 <p align="center">
-  <img src="assets/stickers/denim-star.png" alt="Estrela jeans com máscara do Spider" height="88">
+  <img src="assets/stickers-current/classic-logo.png" alt="Logotipo clássico do Spider-Man" height="82">
   &nbsp;
-  <img src="assets/stickers/lightning.png" alt="Raio vermelho e azul" height="88">
+  <img src="assets/stickers-current/hello-alan-kordel.png" alt="Etiqueta Hello, my name is Alan Kordel" height="118">
   &nbsp;
-  <img src="assets/stickers/portrait-note.png" alt="Retrato do Spider em nota amarela" height="88">
-  &nbsp;
-  <img src="assets/stickers/multiverse-mask.png" alt="Máscara multiversal em vermelho, preto e roxo" height="88">
-  &nbsp;
-  <img src="assets/stickers/web-hand.png" alt="Mão fazendo o gesto de lançar teia" height="88">
+  <img src="assets/stickers-current/upside-down.png" alt="Spider-Man pendurado de cabeça para baixo" height="96">
 </p>
 
 <p align="center"><img src="assets/animations/web-divider.svg" alt="Divisor animado em forma de teia e fluxo de dados" width="100%"></p>
@@ -49,6 +45,12 @@ Hoje levo essa visão operacional para **Engenharia de Dados**. Construo pipelin
 
 <p align="center">
   <img src="assets/spider/coding-break.jpg" alt="Spider-Man em uma pausa diante do computador" width="460">
+</p>
+
+<p align="center">
+  <img src="assets/stickers-current/portrait-note.png" alt="Retrato clássico do Spider-Man em uma nota amarela" height="118">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/spider-cat.png" alt="Spider-Man com máscara inspirada em um gato" height="118">
 </p>
 
 > Assim como uma teia conecta diferentes pontos, minha trajetória conecta **suporte, automação, dados, Cloud e engenharia**.
@@ -83,6 +85,12 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 <a href="https://github.com/alankordel/monitor-precos-estoque"><img src="assets/projects/monitor-precos.svg" alt="Card do projeto Monitor de Preços e Estoque, em construção" width="100%"></a>
 
+<p align="center">
+  <img src="assets/stickers-current/comic-eyes.png" alt="Olhos do Spider-Man em estilo de quadrinhos" height="92">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/comic-leap.png" alt="Spider-Man saltando entre páginas de quadrinhos" height="128">
+</p>
+
 <details>
   <summary><strong>Outra conexão da teia: suporte e automação</strong></summary>
   <br>
@@ -107,6 +115,12 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,azure,aws,git,github,powershell,vscode,postman" alt="Ícones de Python, PostgreSQL, MySQL, Docker, Azure, AWS, Git, GitHub, PowerShell, VS Code e Postman">
 </p>
 
+<p align="center">
+  <img src="assets/stickers-current/red-emblem.png" alt="Emblema vermelho de aranha" height="108">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/stickers-current/modern-mask.png" alt="Máscara moderna do Spider-Man" height="128">
+</p>
+
 <p align="center"><img src="assets/sections/tech-web.svg" alt="Teia tecnológica de Alan Kordel organizada entre dados, automação, Cloud, analytics e DevOps" width="820"></p>
 
 <p align="center">
@@ -126,6 +140,12 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
 
 > Os números mudam; as evidências ficam nos projetos, testes e decisões documentadas acima.
 
+<p align="center">
+  <img src="assets/stickers-current/three-heroes.png" alt="Três versões cinematográficas do Spider-Man" height="128">
+  &nbsp;&nbsp;
+  <img src="assets/stickers-current/pink-amazing.png" alt="Sticker rosa Amazing Spider-Man" height="128">
+</p>
+
 ## 🕷️ Contribution Web
 
 <p align="center">
@@ -138,30 +158,14 @@ Cada repositório é uma dimensão do Alan-Verse: um problema diferente conectad
   <img src="assets/spider/study-night.jpg" alt="Spider-Man estudando e investigando diante do computador" width="520">
 </p>
 
-## 🧵 Currently Weaving | Em construção
+<p align="center">
+  <img src="assets/stickers-current/newspaper-hero.png" alt="Spider-Man sobre uma página de jornal" height="138">
+</p>
 
 <p align="center"><img src="assets/sections/currently-weaving.svg" alt="Teia incompleta mostrando os estudos e projetos atuais" width="100%"></p>
 
-- **Monitor de Preços e Estoque:** evolução do MVP com PostgreSQL, Alembic, Docker Compose, alertas, dashboard e testes.
-- **Kordel Racing Data Lab:** novos contratos e validações entre datasets no pipeline de telemetria.
-- **Engenharia de Dados:** qualidade, arquitetura de pipelines e observabilidade.
-- **Cloud e DevOps:** containers, integração contínua e fundamentos de Azure e AWS.
-- **Próximos nós:** Databricks e Airflow como tecnologias em evolução.
-
 <p align="center">
   <img src="assets/spider/city-break.jpg" alt="Spider-Man descansando em uma teia sobre a cidade ao entardecer" width="420">
-</p>
-
-<p align="center">
-  <img src="assets/stickers/comic-disc.png" alt="Disco com ilustração do Spider" height="92">
-  &nbsp;
-  <img src="assets/stickers/guitar-hero.png" alt="Spider colorido tocando guitarra" height="92">
-  &nbsp;
-  <img src="assets/stickers/dont-panic.png" alt="Sticker em quadrinhos com a frase Don't Panic" height="92">
-  &nbsp;
-  <img src="assets/stickers/spider-cat.png" alt="Gato com fantasia do Spider" height="92">
-  &nbsp;
-  <img src="assets/stickers/love-spider.png" alt="Sticker I love Spider-Man" height="92">
 </p>
 
 ## 🕸️ Send the Signal | Contato
