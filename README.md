@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>Computer Engineer | Data Engineering • Automation • Cloud</strong><br>
-  Conectando problemas reais, dados e tecnologia através da mesma teia.
+  Conectando problemas reais, dados e tecnologia.
 </p>
 
 <p align="center">
@@ -94,10 +94,7 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
 </p>
 
 <details>
-  <summary><strong>Outra conexão da teia: suporte e automação</strong></summary>
-  <br>
-  O <a href="https://github.com/alankordel/office-troubleshooting-script">Office Troubleshooting Script</a> representa minha origem operacional: diagnóstico do Microsoft Office em Windows, geração de logs e rotinas automatizadas de reparo.
-</details>
+
 
 ## 🧰 Tech Web | Tecnologias
 
@@ -105,7 +102,7 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
   <img src="assets/spider/coding-web.jpg" alt="Spider-Man trabalhando no computador sobre uma teia" width="520">
 </p>
 
-### Stack em campo
+### Stack
 
 - **Dados e pipelines:** Python, SQL, Pandas, ETL, Parquet, contratos e qualidade de dados.
 - **Bancos de dados:** PostgreSQL, MySQL, modelagem relacional, Star Schema e Data Warehouse.
@@ -156,15 +153,6 @@ Projetinhos que venho trabalhando, para desenvolver minha stack e sempre me mant
   <img src="assets/spider/study-night.jpg" alt="Spider-Man estudando e investigando diante do computador" width="520">
 </p>
 
-<p align="center">
-  <img src="assets/stickers-current/newspaper-hero.png" alt="Spider-Man sobre uma página de jornal" height="138">
-</p>
-
-<p align="center"><img src="assets/sections/currently-weaving.svg" alt="Teia incompleta mostrando os estudos e projetos atuais" width="100%"></p>
-
-<p align="center">
-  <img src="assets/spider/city-break.jpg" alt="Spider-Man descansando em uma teia sobre a cidade ao entardecer" width="420">
-</p>
 
 ## 🕸️ Send the Signal | Contato
 
